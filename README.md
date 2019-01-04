@@ -25,3 +25,16 @@ Gradient descent - algorithm to minimize an arbitrary function.
 
 Thoughts:
 Reviewed ML in 3 months. Its pretty aggressive. Will start looking into Math videos by MIT, 3Blue1Brown and Khan academy. Thinking of listening to podcast mlguide.
+
+
+## Day 3
+
+Progress:
+Gradient descent, Learning rate 
+Local minimum, Global minimum
+Linear Algebra Review
+Started Google ML crash course
+
+Thoughts:
+This is interesting, some of the mathematical concepts takes more time. 
+I should do this task as a first thing in the morning. have to better manage my time with work, family and other responsibilities.
