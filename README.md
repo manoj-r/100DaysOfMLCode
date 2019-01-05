@@ -38,3 +38,15 @@ Started Google ML crash course
 Thoughts:
 This is interesting, some of the mathematical concepts takes more time. 
 I should do this task as a first thing in the morning. have to better manage my time with work, family and other responsibilities.
+
+
+## Day 4
+
+Progress:
+Linear Algebra review
+Multivariable Linear regression
+Features, Feature Scaling, Mean Normaliation
+Octave
+
+Thoughts:
+Soon to pick a dataset and start a project. Explore more on Kaggle. No need to tag in twitter. Will log everyday work here.
