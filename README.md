@@ -50,3 +50,16 @@ Octave
 
 Thoughts:
 Soon to pick a dataset and start a project. Explore more on Kaggle. No need to tag in twitter. Will log everyday work here.
+
+## Day 5
+
+Progress:
+Debugging Gradient Descent
+Polynomial regression
+quadratic, cubic function, square root
+Normal Equation
+0 = (Xt X)-1 Xt y
+More on Octave
+
+Thoughts:
+Need to learn more about polynomial regression, quadratic, cubic, etc., 
