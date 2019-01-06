@@ -59,6 +59,7 @@ Polynomial regression
 quadratic, cubic function, square root
 Normal Equation
 0 = (Xt X)-1 Xt y
+Matrix Invertibility
 More on Octave
 
 Thoughts:
