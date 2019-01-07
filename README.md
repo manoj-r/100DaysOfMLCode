@@ -64,3 +64,13 @@ More on Octave
 
 Thoughts:
 Need to learn more about polynomial regression, quadratic, cubic, etc., 
+
+
+## Day 6
+
+Progress:
+Quiz, Octave commands
+Histogram plots,
+
+Thoughts:
+It has been really slow today. :(
