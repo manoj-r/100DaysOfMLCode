@@ -74,3 +74,14 @@ Histogram plots,
 
 Thoughts:
 It has been really slow today. :(
+
+## Day 7
+
+Progress:
+Octave, second quiz,
+Plots, subplots, vectorization
+Linear Algebra by Gilbert Strang
+Started Introduction to Statistics course - Udacity
+
+Thoughts:
+Updating octave takes forever.
