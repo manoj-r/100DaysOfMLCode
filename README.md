@@ -80,8 +80,17 @@ It has been really slow today. :(
 Progress:
 Octave, second quiz,
 Plots, subplots, vectorization
-Linear Algebra by Gilbert Strang
+Linear Algebra by Gilbert Strang - Row, column, matrix method.
 Started Introduction to Statistics course - Udacity
 
 Thoughts:
 Updating octave takes forever.
+
+## Day 8
+
+Progress:
+Coursera Week 2 Programming Assignment
+Matlab
+
+Thoughts:
+Practical learning - slow progress thats ok
