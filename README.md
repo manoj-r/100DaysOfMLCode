@@ -94,3 +94,11 @@ Matlab
 
 Thoughts:
 Practical learning - slow progress thats ok
+
+## Day 9 
+
+Progress:
+Coursera Week 2 assignment submission
+
+Thoughts:
+Good exercise.
