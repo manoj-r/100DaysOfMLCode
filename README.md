@@ -102,3 +102,17 @@ Coursera Week 2 assignment submission
 
 Thoughts:
 Good exercise.
+
+
+## Day 10
+
+Progress:
+On Week3 of Andrew Ng course in coursera. 
+Classification - Logistic Regression. 
+Decision boundary
+Non-linear decision boundaries
+Going thru Introduction to Statistics by Sebastian Thrun.
+
+Thoughts:
+Start the calculus series soon.
+Make a plan of action for rest of the days.
