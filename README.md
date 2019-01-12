@@ -116,3 +116,12 @@ Going thru Introduction to Statistics by Sebastian Thrun.
 Thoughts:
 Start the calculus series soon.
 Make a plan of action for rest of the days.
+
+## Day 11
+
+Progress:
+Logistic regression
+cost function
+
+Thoughts:
+Couldn't follow the course, need to find a different source or put more time to understand Logistic regression's formula and representation.
