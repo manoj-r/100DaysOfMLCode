@@ -141,4 +141,4 @@ Advance optimization - Conjugate gradient, BFGS, L-BFGS
 Thoughts:
 Clear understanding, Yesterday I was probably heavily distracted.
 Machine Learning using Java - Safaribooks looks intersting
-Saw a link about python in 1 month inluding kera, numpy
+Saw a link about python in 1 month inluding keras, numpy
