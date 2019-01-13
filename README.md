@@ -125,3 +125,18 @@ cost function
 
 Thoughts:
 Couldn't follow the course, need to find a different source or put more time to understand Logistic regression's formula and representation.
+
+
+## Day 12
+
+Progress:
+Logistic regression
+Logistic regression Cost function
+if h(x) = 0, when y =1, cost function is infinite
+h(x) = 1, when y = 0, cost function is infinite
+Gradient descent formula is still the same for logistic regression except h(x)
+
+Thoughts:
+Clear understanding, Yesterday I was probably heavily distracted.
+Machine Learning using Java - Safaribooks looks intersting
+Saw a link about python in 1 month inluding kera, numpy
