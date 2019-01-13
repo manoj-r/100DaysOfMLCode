@@ -135,6 +135,8 @@ Logistic regression Cost function
 if h(x) = 0, when y =1, cost function is infinite
 h(x) = 1, when y = 0, cost function is infinite
 Gradient descent formula is still the same for logistic regression except h(x)
+Advance optimization - Conjugate gradient, BFGS, L-BFGS
+
 
 Thoughts:
 Clear understanding, Yesterday I was probably heavily distracted.
