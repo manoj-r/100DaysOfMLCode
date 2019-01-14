@@ -142,3 +142,16 @@ Thoughts:
 Clear understanding, Yesterday I was probably heavily distracted.
 Machine Learning using Java - Safaribooks looks intersting
 Saw a link about python in 1 month inluding keras, numpy
+
+## Day 13
+
+Progress:
+Logistic Regression
+Multi class classification
+one-vs-all/one-vs-rest
+Overfitting, underfitting
+How to address overfitting - reduce number of features, regularization
+Regularization 
+
+Thoughts:
+Need to start some python course on the side.
