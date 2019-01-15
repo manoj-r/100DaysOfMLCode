@@ -155,3 +155,12 @@ Regularization
 
 Thoughts:
 Need to start some python course on the side.
+
+
+## Day 14
+
+Progress:
+Coursera week3 assignment
+
+Thoughts:
+Slow day, may need to quickly revisit certain concepts again.
