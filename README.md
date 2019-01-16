@@ -164,3 +164,12 @@ Coursera week3 assignment
 
 Thoughts:
 Slow day, may need to quickly revisit certain concepts again.
+
+
+## Day 15
+
+Progress:
+Week 3 assignment
+
+Thoughts:
+Need to finish this soon and start implementing them in python
