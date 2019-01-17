@@ -173,3 +173,12 @@ Week 3 assignment
 
 Thoughts:
 Need to finish this soon and start implementing them in python
+
+## Day 16
+Progress:
+Completed all assignments
+
+Thoughts:
+understood more matrix concepts
+it has been real slow for past 3 days
+should speed up.
