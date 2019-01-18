@@ -182,3 +182,11 @@ Thoughts:
 understood more matrix concepts
 it has been real slow for past 3 days
 should speed up.
+
+## Day 17
+Progress:
+Week 4 course - AndrewNg
+Neural networks - one learning algorithm, neural re-wiring
+hidden layer, forward propogation
+course:
+need to learn quadratic functions
