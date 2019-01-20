@@ -190,3 +190,12 @@ Neural networks - one learning algorithm, neural re-wiring
 hidden layer, forward propogation
 course:
 need to learn quadratic functions
+
+
+## Day 18
+Progress
+complted week4 course - Andre Ng
+neural network architectures
+vectorization
+exercises - Matlab Week 4
+
