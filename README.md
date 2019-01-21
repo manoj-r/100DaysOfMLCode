@@ -199,3 +199,11 @@ neural network architectures
 vectorization
 exercises - Matlab Week 4
 
+
+## Day 19
+
+Progress:
+Week 4 exercises
+Regularized logistic regression
+one vs all classifier
+
