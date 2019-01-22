@@ -207,3 +207,12 @@ Week 4 exercises
 Regularized logistic regression
 one vs all classifier
 
+## Day 20
+
+Progress:
+Week 4 exercise
+One vs all classifier
+one vs all prediction
+
+Thoughts:
+Real slow for past few days
