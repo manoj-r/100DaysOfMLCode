@@ -216,3 +216,12 @@ one vs all prediction
 
 Thoughts:
 Real slow for past few days
+
+## Day 21
+
+Progress:
+Completed week 4 exercises
+continuation of udacity statistics course
+
+Thoughts:
+start scikit
