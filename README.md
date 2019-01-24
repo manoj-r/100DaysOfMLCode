@@ -223,5 +223,18 @@ Progress:
 Completed week 4 exercises
 continuation of udacity statistics course
 
-Thoughts:
-start scikit
+## Day 22
+
+Progress:
+Week 5 Coursera course
+Neural networks - Cost function
+Use back propogation to reduce cost function:
+Algorithm:
+Use forward propogation to find h(x)
+use error function from layer L or last layer and back track till second layer
+How to determine wights in neural network?
+parametric optimization - and use back propogation to identify appropriate weights
+accumulator - add up our values.
+
+
+
