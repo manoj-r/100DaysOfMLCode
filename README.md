@@ -236,5 +236,13 @@ How to determine wights in neural network?
 parametric optimization - and use back propogation to identify appropriate weights
 accumulator - add up our values.
 
+## Day 23
+Neural networks - Unrolling parameters
+
+## Day 24
+Couldn't do 1 hour yesterday
+will add more hours today
+
+
 
 
