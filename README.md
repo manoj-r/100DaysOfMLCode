@@ -241,7 +241,20 @@ Neural networks - Unrolling parameters
 
 ## Day 24
 Couldn't do 1 hour yesterday
-will add more hours today
+just did Gradient checking today. only lectures.
+
+## Day 25
+Random Initialization 
+- Zero vector initialization doesn't work for neural network
+- is all about breaking symmetry
+
+## Day 26
+Calculus refresh
+ - 3 blue 1 brown - youtube series 
+ - Chapter 1 - 3
+ - reminder of the forumula
+ - was never taught in any way close to this, wish I could go back 13 years and teach myself this.
+beautiful course. Thanks @Siraj for the channel reference 
 
 
 
