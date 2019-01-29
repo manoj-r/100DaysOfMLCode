@@ -257,5 +257,11 @@ Calculus refresh
 beautiful course. Thanks @Siraj for the channel reference 
 
 
-
+## Day 27
+Calculus refresh
+ - 3 blue 1 brown contniuation on the series
+ - Power rule, Sum rule, Product rule, Chain rule
+ - Exponential
+ - understanding how expoential is special, its not just the values of e. But e has meaningful constant
+ - Completed Week 5 Quiz in Andrew Ng course.
 
