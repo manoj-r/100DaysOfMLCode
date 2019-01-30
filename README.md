@@ -265,3 +265,15 @@ Calculus refresh
  - understanding how expoential is special, its not just the values of e. But e has meaningful constant
  - Completed Week 5 Quiz in Andrew Ng course.
 
+## Day 28
+
+Progress:
+
+ - Calculus continuation
+ - Implicit differentiation
+ - Andrew Ng week 6 course conitnuation
+ - Diagnostics, 
+ 
+Slow day today
+
+## Day 29
