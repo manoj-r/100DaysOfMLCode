@@ -277,3 +277,7 @@ Progress:
 Slow day today
 
 ## Day 29
+
+Progress:
+ - Andrew Ng week 6 course conitnuation
+ - Train, validation, Tests
