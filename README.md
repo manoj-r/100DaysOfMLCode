@@ -281,3 +281,17 @@ Slow day today
 Progress:
  - Andrew Ng week 6 course conitnuation
  - Train, validation, Tests
+
+
+## Day 30
+
+Python for datascience playlist
+slow day again
+Conference today silicon slopes - lot of ML meetings
+
+## Day 31
+
+Python for datascience - exercise continuation
+Conference today silicon slopes - lot of ML meetings
+Gender classification - Scikit classification algorithms
+https://colab.research.google.com/drive/1NLtLjTQldGlaZy5hWwAXWrbiuDct4w_3
