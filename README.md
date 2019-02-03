@@ -303,6 +303,7 @@ Progress:
 Python for datascience - twitter api sentiment analysis
 Also started reading 'learn python the hard way'
 Learnt about accuracy score in scikit-metrics
+created twitter app for sentiment analysis.
 
 Thoughts:
 Need to do Week 5 assignment in coursera
