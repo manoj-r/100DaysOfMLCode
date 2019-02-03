@@ -295,3 +295,15 @@ Python for datascience - exercise continuation
 Conference today silicon slopes - lot of ML meetings
 Gender classification - Scikit classification algorithms
 https://colab.research.google.com/drive/1NLtLjTQldGlaZy5hWwAXWrbiuDct4w_3
+
+
+## Day 32
+
+Progress:
+Python for datascience - twitter api sentiment analysis
+Also started reading 'learn python the hard way'
+Learnt about accuracy score in scikit-metrics
+
+Thoughts:
+Need to do Week 5 assignment in coursera
+
