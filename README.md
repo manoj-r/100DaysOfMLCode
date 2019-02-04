@@ -308,3 +308,6 @@ created twitter app for sentiment analysis.
 Thoughts:
 Need to do Week 5 assignment in coursera
 
+## Day 33
+
+Introduction to statistics in udacity course
