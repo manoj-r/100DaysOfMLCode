@@ -311,3 +311,7 @@ Need to do Week 5 assignment in coursera
 ## Day 33
 
 Introduction to statistics in udacity course
+
+## Day 34 
+
+Back to Neural network exercise for coursera course
