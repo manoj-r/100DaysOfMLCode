@@ -315,3 +315,10 @@ Introduction to statistics in udacity course
 ## Day 34 
 
 Back to Neural network exercise for coursera course
+
+## Day 35
+
+Neural network exercise
+
+Thoughts:
+Not a good day at work. trying to keep hopes high.
