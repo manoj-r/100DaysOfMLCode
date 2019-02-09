@@ -326,3 +326,6 @@ Not a good day at work. trying to keep hopes high.
 ## Day 36
 Neural network exercise - regularization, sigmoid gradient
 
+## Day37
+NN exercise
+Scikit course in safaribooks
