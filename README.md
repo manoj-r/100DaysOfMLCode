@@ -329,3 +329,6 @@ Neural network exercise - regularization, sigmoid gradient
 ## Day37
 NN exercise
 Scikit course in safaribooks
+
+## Day 38
+NN exercise - this is hard - finished today
