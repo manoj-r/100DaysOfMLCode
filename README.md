@@ -337,3 +337,7 @@ NN exercise - this is hard - finished today
 ## Day 39
 Coursera Andrew ng course - week 6
 ML beginner course with scikit by David Mertz
+
+
+## Day 40
+Andrew ng course week 6
