@@ -341,6 +341,7 @@ ML beginner course with scikit by David Mertz
 
 ## Day 40
 Andrew ng course week 6
+Training Set, Cross validation set, Test set
 
 ## Day 41
 
