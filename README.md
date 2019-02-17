@@ -341,3 +341,17 @@ ML beginner course with scikit by David Mertz
 
 ## Day 40
 Andrew ng course week 6
+
+## Day 41
+
+Progress:
+Machine learning system design - 
+Learnt about High bias/variance,
+Bias variance stand off
+F Score
+
+Thoughts:
+Skipped past few past days
+Need to get things back in track
+Have to start something in Kaggle - Need some purpose.
+Lot of other things going in life and work. Dont lose hope.
