@@ -356,3 +356,8 @@ Skipped past few past days
 Need to get things back in track
 Have to start something in Kaggle - Need some purpose.
 Lot of other things going in life and work. Dont lose hope.
+
+
+## Day 42
+
+Week 6 exercises.
