@@ -361,3 +361,15 @@ Lot of other things going in life and work. Dont lose hope.
 ## Day 42
 
 Week 6 exercises.
+
+
+## Day 43
+
+Restarting after a break of 5 days
+Support Vector Machine:
+difference between logistic regression and SVM
+Largin margin classifier
+Kernels 
+similarity - gaussian kernerls
+
+
