@@ -369,7 +369,26 @@ Restarting after a break of 5 days
 Support Vector Machine:
 difference between logistic regression and SVM
 Largin margin classifier
-Kernels 
-similarity - gaussian kernerls
+Kernels (similarity function)
+ - gaussian kernerls
 
 
+## Day 44
+
+Progress:
+C - bias/variance
+sigma2 - bias/variance
+SVM software package - liblinear, libsvm
+No Kernel - linear kernel - large number of features, small number of samples
+sigmasquare - Gaussian Kernel - small number of features, large number of samples
+Perform feature scaling before using gaussian kernel
+Not all similarity function are called valid kernels - need to satisfy mercers theorem
+Polynomial kernel, esometric kernels
+Logistic regression vs SVM 
+ - large number of features, relatively small training data set - Logistic regression or linear kernels(SVM without kernel)
+ - small number of features, intermediate training data set - Gaussian kernels
+ - small number of features, large training data set - Increase number of features and use logistic regression or SVM without kernel
+
+Thoughts:
+Will try to avoid breaks between days
+Need to implement SVM in Scikit
