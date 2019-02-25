@@ -388,6 +388,7 @@ Logistic regression vs SVM
  - large number of features, relatively small training data set - Logistic regression or linear kernels(SVM without kernel)
  - small number of features, intermediate training data set - Gaussian kernels
  - small number of features, large training data set - Increase number of features and use logistic regression or SVM without kernel
+Completed Week 7 Quiz and exercises
 
 Thoughts:
 Will try to avoid breaks between days
